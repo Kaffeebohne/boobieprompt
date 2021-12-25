@@ -4,23 +4,16 @@ It's boobs who make the daily live attractive and a better place.
 For their honor I thought about having them as prompt in my bash. I think we can agree that we don't want to see the
 same boobs over and over. That's why I've got several boobie-prompts of which one will be selected as boobie of the day.
 
-Right now the set of prompts is defined as
-  _ _ _ _ _ _ the prompt
-/         _ _ whitespace between prompt and actual command
-|        /  _ delimiter between prompt and description
-|        |/ _ brief description, must contain category (boob, ass, misc [case insensitive])
-|        ||/
-v        vvv
-( . Y . ) ~regular boobie
-
-and is made up of those
-(.Y.) ~boob
-(. Y .) ~shy boob
-( o Y o ) ~big nipples boob
-( x Y x ) ~sticker boobs
-( o > o ) ~misc penguin
-(\_|\_) ~flat ass
-| . X . | ~man boob of a slim dude
+Right now the set of prompts is defined as the prompt (with trailing whitespace before entered command), a tilde as 
+delimiter between prompt and the description and a brief description containing the case insensitive category (boob, ass, misc)
+It's made up of those
+<br>(.Y.) ~smoll boob
+<br>(. Y .) ~shy boob
+<br>( o Y o ) ~big nipples boob
+<br>( x Y x ) ~sticker boobs
+<br>( o > o ) ~misc penguin
+<br>(\_|\_) ~flat ass
+<br>| . X . | ~man boob of a slim dude
 
 Unfortunately it's hard to create new booobs while having a dayjob and the need of some recreational time for itself.
 That's why I'd like to crowdsource the creation of boobs.
