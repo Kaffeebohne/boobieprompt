@@ -1,7 +1,7 @@
 #!/bin/sh
 
 if [ $# -gt 0 ]; then
-  LIST=`grep "$1" /var/local/boobies/boobs | shuf`
+  LIST=`grep -i "$1" /var/local/boobies/boobs | shuf`
 else
   LIST=`shuf /var/local/boobies/boobs`
 fi
